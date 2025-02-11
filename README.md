@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python and Java. I already HTML, CSS and JS. I have made a website for my podcast earlier using the same!
 - 💞️ I’m looking to collaborate on learning new technologies. I love learning new things!
 - 📫 How to reach me: Email/GitHub:
-  - email: arnavgautam2003@protonmail.com, arnavgautam2003@gmail.com
+  - email 1: arnavgautam2003@protonmail.com
+  - email 2: arnavgautam2003@gmail.com
   - GitHub: @ArnavGautamGit
 
 <!---
